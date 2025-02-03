@@ -1,0 +1,16 @@
+# Ignore node_modules for backend and frontend
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore environment files
+backend/.env
+frontend/.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore dependencies generated files
+node_modules/
+package-lock.json
+yarn.lock
