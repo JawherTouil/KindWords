@@ -23,7 +23,7 @@ import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import NumberGame from './components/NumberGame';
 import SnakeGame from './components/SnakeGame';
 
-const API_BASE_URL = 'https://backend-tawny-six-69.vercel.app/api'; // Updated to your Vercel backend URL
+const API_BASE_URL = 'https://backend-tawny-six-69.vercel.app/'; // Updated to your Vercel backend URL
 
 const StyledPaper = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(4),
