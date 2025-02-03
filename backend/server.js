@@ -21,7 +21,8 @@ app.use(express.json());
 
 // Initial kind words for seeding the database
 const initialKindWords = [
-  "Every day is a new opportunity to shine!",
+ "hello fine shyt"
+  /* "Every day is a new opportunity to shine!",
   "You make the world a better place just by being you!",
   "Your potential is limitless!",
   "You're stronger than you know!",
@@ -40,7 +41,7 @@ const initialKindWords = [
   "Your kindness makes a difference!",
   "You're capable of amazing things!",
   "Your presence is a gift to those around you!",
-  "You have a beautiful heart!"
+  "You have a beautiful heart!"*/
 ];
 
 // Constants for the game
