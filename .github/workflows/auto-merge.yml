@@ -35,7 +35,7 @@ jobs:
       # Step 5: Build React app
       - name: Build React App
         working-directory: ./frontend
-        run: npm run build
+        run: npm start
 
       # Step 6: Auto merge if all steps pass
       - name: Auto-merge if tests pass

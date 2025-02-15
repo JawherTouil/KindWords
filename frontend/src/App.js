@@ -24,6 +24,7 @@ import NumberGame from './components/NumberGame';
 import SnakeGame from './components/SnakeGame';
 
 const API_BASE_URL = 'http://localhost:5000/api';
+//aax
 
 const StyledPaper = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(4),
