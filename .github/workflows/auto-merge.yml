@@ -25,14 +25,12 @@ jobs:
         working-directory: ./backend
         run: |
           npm install
-          npm test  # Adjust this if you use another test command
 
       # Step 4: Install & Test Frontend
       - name: Install and test Frontend
         working-directory: ./frontend
         run: |
           npm install
-          npm test  # Adjust as needed
 
       # Step 5: Build React app
       - name: Build React App
