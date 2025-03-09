@@ -49,7 +49,7 @@ const POINTS_PER_GAME = {
   number: 2,
   snake: 1  // 1 point per food eaten
 };
-//aa
+//test2
 // Seed the database if empty
 async function seedDatabase() {
   try {
